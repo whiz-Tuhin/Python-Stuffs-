@@ -1,3 +1,6 @@
+#TODO To fix the spider's movement
+
+
 import requests
 from bs4 import BeautifulSoup
 
